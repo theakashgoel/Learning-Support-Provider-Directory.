@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "name": "Bright Minds Learning Center",
+    "description": "Support for children with dyslexia and ADHD.",
+    "longDescription": "Bright Minds offers personalized sessions, parent workshops, and educational assessments for children facing dyslexia, ADHD, and related challenges.",
+    "location": "Dubai, UAE",
+    "services": ["Dyslexia Support", "ADHD Coaching", "Speech Therapy"],
+    "rating": 4.5,
+    "contactEmail": "info@brightminds.ae",
+    "phoneNumber": "+971 4 123 4567"
+  },
+  {
+    "id": "2",
+    "name": "Focus Educational Services",
+    "description": "Behavioral therapy and learning support.",
+    "longDescription": "Focus provides early intervention programs, behavior analysis, and tailored academic support for preschool and primary school children.",
+    "location": "Abu Dhabi, UAE",
+    "services": ["Behavioral Therapy", "Learning Assessments"],
+    "rating": 4.0,
+    "contactEmail": "contact@focusedu.ae",
+    "phoneNumber": "+971 2 765 4321"
+  },
+  {
+    "id": "3",
+    "name": "Steps to Success",
+    "description": "Tutoring and occupational therapy.",
+    "longDescription": "Steps to Success helps children with motor coordination issues and academic challenges through occupational therapy and specialized tutoring.",
+    "location": "Sharjah, UAE",
+    "services": ["Academic Tutoring", "Occupational Therapy"],
+    "rating": 4.3,
+    "contactEmail": "hello@stepstosuccess.ae",
+    "phoneNumber": "+971 6 555 1234"
+  },
+  {
+    "id": "4",
+    "name": "Mindful Growth Center",
+    "description": "Support for children with autism and communication needs.",
+    "longDescription": "Mindful Growth Center specializes in autism spectrum disorders, offering structured programs including social skills groups and speech therapy.",
+    "location": "Dubai, UAE",
+    "services": ["Autism Support", "Social Skills Groups", "Speech Therapy"],
+    "rating": 4.8,
+    "contactEmail": "connect@mindfulgrowth.ae",
+    "phoneNumber": "+971 4 332 1122"
+  },
+  {
+    "id": "5",
+    "name": "Thrive Learning Hub",
+    "description": "Comprehensive multi-disciplinary support.",
+    "longDescription": "Thrive offers evaluations and custom learning plans through a team of psychologists, therapists, and special educators.",
+    "location": "Ajman, UAE",
+    "services": ["Psychological Assessments", "Speech Therapy", "Individual Learning Plans"],
+    "rating": 4.4,
+    "contactEmail": "info@thrivehub.ae",
+    "phoneNumber": "+971 6 744 8900"
+  },
+  {
+    "id": "6",
+    "name": "Bridge to Learning",
+    "description": "Inclusive education experts for schools.",
+    "longDescription": "Bridge to Learning partners with schools and parents to integrate inclusive education strategies, classroom adaptations, and staff training.",
+    "location": "Dubai, UAE",
+    "services": ["Inclusive Classroom Support", "Teacher Training", "Learning Assessments"],
+    "rating": 4.1,
+    "contactEmail": "admin@bridgelearning.ae",
+    "phoneNumber": "+971 4 776 9988"
+  },
+  {
+    "id": "7",
+    "name": "Hope & Harmony",
+    "description": "Emotional and behavioral counseling.",
+    "longDescription": "Hope & Harmony provides counseling services to children with anxiety, behavioral issues, and trauma through evidence-based therapy models.",
+    "location": "Ras Al Khaimah, UAE",
+    "services": ["Family Counseling", "Behavioral Therapy", "Emotional Regulation"],
+    "rating": 4.6,
+    "contactEmail": "therapy@hopeharmony.ae",
+    "phoneNumber": "+971 7 123 9988"
+  },
+  {
+    "id": "8",
+    "name": "Empower Kids Institute",
+    "description": "Speech and cognitive development specialists.",
+    "longDescription": "Empower Kids Institute provides developmental support focused on language acquisition, articulation, and early learning delays.",
+    "location": "Fujairah, UAE",
+    "services": ["Speech Therapy", "Cognitive Development", "Parental Coaching"],
+    "rating": 4.2,
+    "contactEmail": "hello@empowerkids.ae",
+    "phoneNumber": "+971 9 456 7890"
+  }
+]

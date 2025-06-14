@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  background-color: #f2f4f7;
+  color: #222;
+  line-height: 1.6;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
